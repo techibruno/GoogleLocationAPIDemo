@@ -1,0 +1,28 @@
+C:\Users\nadun\source\repos\DistanceCalculator\DistanceCalculator\obj\Debug\netcoreapp2.2\DistanceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\nadun\source\repos\DistanceCalculator\DistanceCalculator\obj\Debug\netcoreapp2.2\DistanceCalculator.AssemblyInfoInputs.cache
+C:\Users\nadun\source\repos\DistanceCalculator\DistanceCalculator\obj\Debug\netcoreapp2.2\DistanceCalculator.AssemblyInfo.cs
+C:\Users\nadun\source\repos\DistanceCalculator\DistanceCalculator\bin\Debug\netcoreapp2.2\DistanceCalculator.deps.json
+C:\Users\nadun\source\repos\DistanceCalculator\DistanceCalculator\bin\Debug\netcoreapp2.2\DistanceCalculator.runtimeconfig.json
+C:\Users\nadun\source\repos\DistanceCalculator\DistanceCalculator\bin\Debug\netcoreapp2.2\DistanceCalculator.runtimeconfig.dev.json
+C:\Users\nadun\source\repos\DistanceCalculator\DistanceCalculator\bin\Debug\netcoreapp2.2\DistanceCalculator.dll
+C:\Users\nadun\source\repos\DistanceCalculator\DistanceCalculator\obj\Debug\netcoreapp2.2\DistanceCalculator.csprojAssemblyReference.cache
+C:\Users\nadun\source\repos\DistanceCalculator\DistanceCalculator\obj\Debug\netcoreapp2.2\DistanceCalculator.RazorAssemblyInfo.cache
+C:\Users\nadun\source\repos\DistanceCalculator\DistanceCalculator\obj\Debug\netcoreapp2.2\DistanceCalculator.RazorAssemblyInfo.cs
+C:\Users\nadun\source\repos\DistanceCalculator\DistanceCalculator\obj\Debug\netcoreapp2.2\DistanceCalculator.RazorTargetAssemblyInfo.cache
+C:\Users\nadun\source\repos\DistanceCalculator\DistanceCalculator\bin\Debug\netcoreapp2.2\DistanceCalculator.pdb
+C:\Users\nadun\source\repos\DistanceCalculator\DistanceCalculator\obj\Debug\netcoreapp2.2\DistanceCalculator.dll
+C:\Users\nadun\source\repos\DistanceCalculator\DistanceCalculator\obj\Debug\netcoreapp2.2\DistanceCalculator.pdb
+C:\Users\Madhusha\Downloads\Compressed\Practical -20190620T063459Z-001\Practical\Question(2)\DistanceCalculator\DistanceCalculator\bin\Debug\netcoreapp2.2\DistanceCalculator.deps.json
+C:\Users\Madhusha\Downloads\Compressed\Practical -20190620T063459Z-001\Practical\Question(2)\DistanceCalculator\DistanceCalculator\bin\Debug\netcoreapp2.2\DistanceCalculator.runtimeconfig.json
+C:\Users\Madhusha\Downloads\Compressed\Practical -20190620T063459Z-001\Practical\Question(2)\DistanceCalculator\DistanceCalculator\bin\Debug\netcoreapp2.2\DistanceCalculator.runtimeconfig.dev.json
+C:\Users\Madhusha\Downloads\Compressed\Practical -20190620T063459Z-001\Practical\Question(2)\DistanceCalculator\DistanceCalculator\bin\Debug\netcoreapp2.2\DistanceCalculator.dll
+C:\Users\Madhusha\Downloads\Compressed\Practical -20190620T063459Z-001\Practical\Question(2)\DistanceCalculator\DistanceCalculator\bin\Debug\netcoreapp2.2\DistanceCalculator.pdb
+C:\Users\Madhusha\Downloads\Compressed\Practical -20190620T063459Z-001\Practical\Question(2)\DistanceCalculator\DistanceCalculator\obj\Debug\netcoreapp2.2\DistanceCalculator.csprojAssemblyReference.cache
+C:\Users\Madhusha\Downloads\Compressed\Practical -20190620T063459Z-001\Practical\Question(2)\DistanceCalculator\DistanceCalculator\obj\Debug\netcoreapp2.2\DistanceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Madhusha\Downloads\Compressed\Practical -20190620T063459Z-001\Practical\Question(2)\DistanceCalculator\DistanceCalculator\obj\Debug\netcoreapp2.2\DistanceCalculator.RazorAssemblyInfo.cache
+C:\Users\Madhusha\Downloads\Compressed\Practical -20190620T063459Z-001\Practical\Question(2)\DistanceCalculator\DistanceCalculator\obj\Debug\netcoreapp2.2\DistanceCalculator.RazorAssemblyInfo.cs
+C:\Users\Madhusha\Downloads\Compressed\Practical -20190620T063459Z-001\Practical\Question(2)\DistanceCalculator\DistanceCalculator\obj\Debug\netcoreapp2.2\DistanceCalculator.AssemblyInfoInputs.cache
+C:\Users\Madhusha\Downloads\Compressed\Practical -20190620T063459Z-001\Practical\Question(2)\DistanceCalculator\DistanceCalculator\obj\Debug\netcoreapp2.2\DistanceCalculator.AssemblyInfo.cs
+C:\Users\Madhusha\Downloads\Compressed\Practical -20190620T063459Z-001\Practical\Question(2)\DistanceCalculator\DistanceCalculator\obj\Debug\netcoreapp2.2\DistanceCalculator.RazorTargetAssemblyInfo.cache
+C:\Users\Madhusha\Downloads\Compressed\Practical -20190620T063459Z-001\Practical\Question(2)\DistanceCalculator\DistanceCalculator\obj\Debug\netcoreapp2.2\DistanceCalculator.dll
+C:\Users\Madhusha\Downloads\Compressed\Practical -20190620T063459Z-001\Practical\Question(2)\DistanceCalculator\DistanceCalculator\obj\Debug\netcoreapp2.2\DistanceCalculator.pdb
